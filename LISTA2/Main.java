@@ -3,7 +3,8 @@ public class Main{
 public static void main(String[] args){
 
 //Nivel 3
-/*Questao1 q1 = new Questao1();
+/*
+Questao1 q1 = new Questao1();
 q1.run();
 
 Questao2 q2 = new Questao2();
@@ -40,8 +41,49 @@ q11.run();
 Questao12 q12 = new Questao12();
 q12.run();
 
-Questao13 q13 = new Questao13(); //questão número 10
+Questao13 q13 = new Questao13();
 q13.run();
+
+Questao14 q14 = new Questao14();
+q14.run();
+
+Questao15 q15 = new Questao15();
+q15.run();
+
+//Nivel 5
+Questao16 q16 = new Questao16();
+q16.run();
+
+Questao17 q17 = new Questao17();
+q17.run();
+
+Questao18 q18 = new Questao18();
+q18.run();
+
+Questao19 q19 = new Questao19();
+q19.run();
+
+Questao20 q20 = new Questao20();
+q20.run();
+
+Questao21 q21 = new Questao21();
+q21.run();
+
+Questao22 q22 = new Questao22();
+q22.run();
+
+//Nivel 6
+Questao23 q23 = new Questao23();
+q23.run();
+
+Questao24 q24 = new Questao24();
+q24.run();
+
+Questao25 q25 = new Questao25();
+q25.run();
+
+Questao26 q26 = new Questao26();
+q26.run();
 */
     }
 }
